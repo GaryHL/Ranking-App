@@ -68,7 +68,28 @@
           "app_developer_email": "apps-help@google.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.samsung.android.app.notes",
@@ -140,7 +161,28 @@
           "app_developer_email": "noreply.sec@samsung.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.atomczak.notepat",
@@ -205,7 +247,28 @@
           "app_developer_email": "notepad.free@outlook.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.socialnmobile.dictapps.notepad.color.note",
@@ -268,7 +331,28 @@
           "app_developer_email": "notesupport@socialnmobile.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.RanaSourav.android.notes",
@@ -324,7 +408,28 @@
           "app_developer_email": "ranasourav3817@gmail.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "notepad.note.notas.notes.notizen",
@@ -378,7 +483,28 @@
           "app_developer_email": "pravida19@naver.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.microsoft.office.onenote",
@@ -433,7 +559,28 @@
           "app_developer_email": "onandroidfb@microsoft.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.oneplus.note",
@@ -484,7 +631,28 @@
           "app_developer_email": "oneplus_notes@oneplus.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.evernote",
@@ -540,7 +708,28 @@
           "app_developer_email": "appstore-evernote-android@evernote.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "easynotes.notes.notepad.notebook.privatenotes.note",
@@ -596,7 +785,28 @@
           "app_developer_email": "easynotes@guloolootech.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "notizen.basic.notes.notas.note.notepad",
@@ -651,7 +861,28 @@
           "app_developer_email": "pravida19@naver.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.zoho.notebook",
@@ -705,7 +936,28 @@
           "app_developer_email": "support@zohonotebook.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.eco.note",
@@ -775,7 +1027,28 @@
           "app_developer_email": "supernote@app.ecomobile.vn",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "nl.jacobras.notes",
@@ -828,7 +1101,28 @@
           "app_developer_email": "support@jacobras.nl",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.lautaro.qtnotes",
@@ -879,7 +1173,28 @@
           "app_developer_email": "complitapps@gmail.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.yocto.wenote",
@@ -935,7 +1250,28 @@
           "app_developer_email": "yancheng.cheok@gmail.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.automattic.simplenote",
@@ -1001,7 +1337,28 @@
           "app_developer_email": "support@simplenote.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.steadfastinnovation.android.projectpapyrus",
@@ -1073,7 +1430,28 @@
           "app_developer_email": "support+android@squidnotes.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.ztnstudio.notepad",
@@ -1129,7 +1507,28 @@
           "app_developer_email": "sappalodapps@gmail.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.simplemobiletools.notes.pro",
@@ -1185,7 +1584,28 @@
           "app_developer_email": "hello@simplemobiletools.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.simplemobiletools.notes",
@@ -1241,7 +1661,28 @@
           "app_developer_email": "hello@simplemobiletools.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.q61.note",
@@ -1297,7 +1738,28 @@
           "app_developer_email": "Mightybearvibes@gmail.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "notizen.bloc.notes.notas.notepad.notatnik.note",
@@ -1351,7 +1813,28 @@
           "app_developer_email": "pravida19@naver.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.getupnote.android",
@@ -1419,7 +1902,28 @@
           "app_developer_email": "support@getupnote.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.standardnotes",
@@ -1472,7 +1976,28 @@
           "app_developer_email": "help@standardnotes.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.bvblogic.nimbusnote",
@@ -1538,7 +2063,28 @@
           "app_developer_email": "team@nimbusweb.co",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.dvdb.bergnotes",
@@ -1608,7 +2154,28 @@
           "app_developer_email": "dvdb.software@gmail.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.xaviertobin.noted",
@@ -1663,7 +2230,28 @@
           "app_developer_email": "support@bundlednotes.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.mmm.postit",
@@ -1718,7 +2306,28 @@
           "app_developer_email": "postitapp@3m.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.workflowy.android",
@@ -1771,7 +2380,28 @@
           "app_developer_email": "help@workflowy.com",
           "min_android_version": null,
           "min_android_api_level": null,
-          "max_android_api_level": null
+          "max_android_api_level": null,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
             "app_id": "com.google.android.youtube",
@@ -1825,7 +2455,28 @@
             "min_android_version": null,
             "min_android_api_level": null,
             "max_android_version": "10",
-            "max_android_api_level": 29
+            "max_android_api_level": 29,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.google.android.apps.youtube.kids",
@@ -1889,7 +2540,28 @@
             "min_android_version": null,
             "min_android_api_level": null,
             "max_android_version": "7.1",
-            "max_android_api_level": 25
+            "max_android_api_level": 25,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "videoeditor.videorecorder.screenrecorder",
@@ -1947,7 +2619,28 @@
             "min_android_version": null,
             "min_android_api_level": null,
             "max_android_version": "11",
-            "max_android_api_level": 30
+            "max_android_api_level": 30,
+            "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.lemon.lvoverseas",
@@ -2004,7 +2697,28 @@
             "min_android_version": "5.0",
             "min_android_api_level": 21,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "video.downloader.videodownloader",
@@ -2069,7 +2783,28 @@
             "min_android_version": "6.0",
             "min_android_api_level": 23,
             "max_android_version": "11",
-            "max_android_api_level": 30
+            "max_android_api_level": 30,
+            "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.zhiliaoapp.musically",
@@ -2125,7 +2860,28 @@
             "min_android_version": null,
             "min_android_api_level": null,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.americasbestpics",
@@ -2189,7 +2945,28 @@
             "min_android_version": "6.0",
             "min_android_api_level": 23,
             "max_android_version": null,
-            "max_android_api_level": 33
+            "max_android_api_level": 33,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.camerasideas.trimmer",
@@ -2248,7 +3025,28 @@
             "min_android_version": "6.0",
             "min_android_api_level": 23,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.videoeditorpro.android",
@@ -2304,7 +3102,28 @@
             "min_android_version": "5.0",
             "min_android_api_level": 21,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.splice.video.editor",
@@ -2359,7 +3178,28 @@
             "min_android_version": "6.0",
             "min_android_api_level": 23,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.amazon.avod.thirdpartyclient",
@@ -2412,7 +3252,28 @@
             "min_android_version": "5.0",
             "min_android_api_level": 21,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "video.player.videoplayer",
@@ -2471,7 +3332,28 @@
             "min_android_version": "4.4",
             "min_android_api_level": 19,
             "max_android_version": "11",
-            "max_android_api_level": 30
+            "max_android_api_level": 30,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.gopro.smarty",
@@ -2544,7 +3426,28 @@
             "min_android_version": "9",
             "min_android_api_level": 28,
             "max_android_version": null,
-            "max_android_api_level": 33
+            "max_android_api_level": 33,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.camerasideas.instashot",
@@ -2611,7 +3514,28 @@
             "min_android_version": "6.0",
             "min_android_api_level": 23,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.cyberlink.powerdirector.DRA140225_01",
@@ -2684,7 +3608,28 @@
             "min_android_version": "5.0",
             "min_android_api_level": 21,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "video.like",
@@ -2738,7 +3683,28 @@
             "min_android_version": "4.4",
             "min_android_api_level": 19,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "videoeditor.videomaker.videoeditorforyoutube",
@@ -2797,7 +3763,28 @@
             "min_android_version": "6.0",
             "min_android_api_level": 23,
             "max_android_version": "11",
-            "max_android_api_level": 30
+            "max_android_api_level": 30,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.vivashow.share.video.chat",
@@ -2854,7 +3841,28 @@
             "min_android_version": "5.0",
             "min_android_api_level": 21,
             "max_android_version": "12",
-            "max_android_api_level": 31
+            "max_android_api_level": 31,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "video.mojo",
@@ -2911,7 +3919,28 @@
             "min_android_version": "8.0",
             "min_android_api_level": 26,
             "max_android_version": null,
-            "max_android_api_level": 32
+            "max_android_api_level": 32,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
           {
             "app_id": "com.nexstreaming.app.kinemasterfree",
@@ -2966,7 +3995,28 @@
             "min_android_version": "8.0",
             "min_android_api_level": 26,
             "max_android_version": null,
-            "max_android_api_level": 32
+            "max_android_api_level": 32,
+            "platforms": ["Ios", "Android", "Web"],
+            "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
           },
            {
           "app_id": "com.snapchat.android",
@@ -3023,7 +4073,28 @@
           "min_android_version": "5.0",
           "min_android_api_level": 21,
           "max_android_version": null,
-          "max_android_api_level": 33
+          "max_android_api_level": 33,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.discord",
@@ -3078,7 +4149,28 @@
           "min_android_version": "5.0",
           "min_android_api_level": 21,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.instagram.android",
@@ -3132,7 +4224,28 @@
           "min_android_version": null,
           "min_android_api_level": null,
           "max_android_version": "4.1",
-          "max_android_api_level": 16
+          "max_android_api_level": 16,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.truthsocial.android.app",
@@ -3187,7 +4300,28 @@
           "min_android_version": "6.0",
           "min_android_api_level": 23,
           "max_android_version": null,
-          "max_android_api_level": 32
+          "max_android_api_level": 32,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.twitter.android",
@@ -3245,70 +4379,28 @@
           "min_android_version": null,
           "min_android_api_level": null,
           "max_android_version": "9",
-          "max_android_api_level": 28
-        },
-        {
-          "app_id": "com.aiming.pairium",
-          "app_name": "恋するコーデ ペアリウム かわいい着せ替えアバター作成ゲーム",
-          "app_category": "Simulation",
-          "app_developer": "株式会社GOT",
-          "num_downloads": "50,000+",
-          "app_description": "かわいいアバターの着せ替えコーデが作成できる！好きな異性や同性と結婚できる！かわいい子供アバターの着せ替えも楽しめちゃうアバターの着せ替えコーデ作成ゲーム！\n\n■組み合わせ自由のかわいい着せ替えアバターでコーデ作成を楽しもう\nいろんなジャンルのかわいいアバターの着せ替えコーデ作成が楽しめる！\n自由にアバターを着せ替えて自分だけのかわいいアバターを作成しよう！\nちいさな箱庭「ヴィネット」でインテリアの着せ替えも楽しめるよ！\n自慢のコーデでコンテストに参加しよう！\n\n■いろんなキャラクターの友達と楽しいコミュニケーション\nゲーム友達を増やそう！\n異性や同性の友達とかわいい着せ替えアバターでいろんなコーデを楽しめる！\nアバターを着せ替えてかわいいコーデを作成したら掲示板やチャットでおしゃべりしよう！\nプロフィールには趣味やプレイスタイルが細かく書けるから気の合う友達と出会いやすい！\n友達と双子コーデや恋人とおそろいコーデのアバターかわいい！着せ替えが楽しい！\nゲームで無料で恋活できる！婚活できる！結婚できる！同性でも結婚できる！\n\n■ゲームで結婚できる！かわいい子供アバターも着せ替えも楽しもう\n気になるゲーム友達と親密度をあげて結婚できる！\n結婚できると二人だけの箱庭ヴィネットでもアバターを着せ替えて結婚生活を楽しもう！\nかわいい子供アバターも誕生！子供アバターも大人アバターも着せ替えコーデ作成！\n女性も男性も子供もファミリーでかわいい着せ替えアバターのコーデ作成が楽しめるよ！\nゲーム内で着せ替えコーデのコンテストもあるよ！\n\n■無料でも楽しめる着せ替えアバター作成ゲーム\nかわいいアバターの新ガチャはいつも初回無料！\n毎日無料で豪華ログインボーナス！\nヴィネットで育てた素材を収穫して、無料でかわいい着せ替えアバターアイテムが作成できる！\n不要なアイテムはリサイクルで着せ替えアバターガチャチケットをゲット！\nやり込めば無料でもかわいい着せ替えアバターがたくさん集められる！\n\n■こんな人におすすめ！\n・着せ替えアバターが自由に作成できるかわいいアバターゲームが好き\n・着せ替えアバターの作成にはつい時間をかけてしまうタイプ\n・双子コーデやおそろいコーデ、かわいいコーデを作るのが好き\n・かわいいコスプレやコーデに挑戦したいけどリアルでは抵抗がある\n・かわいいファッションやオシャレに興味がある\n・かわいいものが好き\n・箱庭ゲームが好き\n・新しいゲーム友達が欲しい\n・新しい出会いを探している\n・マッチングアプリは無料でも苦手\n・無料ゲームで恋愛を楽しみたい\n・暇なときに遊べる無料ゲームを探している\n・長く遊べる無料ゲームを探している\n\n■ゲームアプリ本体\n無料　※一部有料アイテムがございます。\n\n■公式サイト\n恋するコーデ ペアリウム\n\n■公式Twitter\n恋するコーデ ペアリウム公式",
-          "app_page_link": "https://play.google.com/store/apps/details?id=com.aiming.pairium",
-          "price": 0,
-          "price_currency": null,
-          "is_paid": false,
-          "rating": 0,
-          "photos": [
-            "https://play-lh.googleusercontent.com/CZfDFRgnsSZQPNuAVkvgVkZLetHfxWq-lYqfoCdxJwrGIwB5X_233hQZ5DNhDn4CQHI",
-            "https://play-lh.googleusercontent.com/sqJSTtzc-bdZ2ihOs7JFuysvod5ALeMjcGnvVSrl56QGI42QsXl6GIkr0RKWJzXc2A",
-            "https://play-lh.googleusercontent.com/J4klqPw-eA5qlObwcGExk9tgUUuWieOj2ZXGkcMCoXYSz8aynJCsoNQVorFX5_0NNws",
-            "https://play-lh.googleusercontent.com/Tz8CGHJanxmJeCY4LVUVa7ulpkvYHSv5ZFmFBFD99yPBa89B9qoxHFq1lZBtv98MLw",
-            "https://play-lh.googleusercontent.com/jnxL29bAiaXDtDc8PPFd6ZWFD6la0K2Iov12OoG8r2k6nOGuv86zV-zwhDC_2liJH34a",
-            "https://play-lh.googleusercontent.com/NEA0dlBRZ32rf7TUgE6TRnUvhbMjVsPXck0AMpJa0ro60JmGD9K0zq45xpShdVa3OU4",
-            "https://play-lh.googleusercontent.com/kVtVevRQqjV38iGN9kPH3FMBJYJagu2CNZ4bCY-Dh5wOhpJh3k_95BY3SN7V2xHD7A",
-            "https://play-lh.googleusercontent.com/qMFqb4JsB1cxlAzNTol46Cefo1bJFxNBhTzsrGZm3C-FurCc9tthXuDRakqJfgpMiFFk",
-            "https://play-lh.googleusercontent.com/ybHAlFzgmtCCnHeU-slsPSSqdRc8-v_tJ0QYPXfEHsnLhdQDX1Bmst8zAVWrH6ywWZc",
-            "https://play-lh.googleusercontent.com/-T-tMWR8I0lLs4QKGcqe_RYSnhARF0nGC4bj7g3d9C5A4bVWI2nTgZksRUkk80I9S2s",
-            "https://play-lh.googleusercontent.com/V2abgaLazhnrFwLicCEe-eKHdhVUae_t76DUDu53PA4ymBsj6dj1U31NKbXoVH6oUEKD",
-            "https://play-lh.googleusercontent.com/sZUlp28i8J1HshJP7xDblofdLKRsA69Gh1ikJaiTF2clKabxeYWEvjy8a5Anchu3ww",
-            "https://play-lh.googleusercontent.com/SNUy1AW4FjA40FQ0SS4jn1GqOEarEbS7lTpHUTAIhc9kgrvF77NdPvYmpWARykT6qEQ",
-            "https://play-lh.googleusercontent.com/x7sU5Lw55yHXz4ZfxXpLpHFriKnLS9sxjxvyYyX_Ab8sFygjtaISEobAcjs6A-u1mQ",
-            "https://play-lh.googleusercontent.com/7JvvoXruxSmYCx3mGBvd-qern5-EX9z8MP-2hT_AL5u0fbIuAoi2uIWyvQwUY8LvGw",
-            "https://play-lh.googleusercontent.com/X7s3n5w8FjAdwidbQABKha4gQvempbPBFfrLO0Y2nTQzFlKP2O2gpxQVKxXTAJUowA",
-            "https://play-lh.googleusercontent.com/wbHHL4OhQppWXAMnowC68awqTEhZFi2wOVTyhPNw58Yeb9FVwa5xY1nN7Sfaoy8DHBg",
-            "https://play-lh.googleusercontent.com/BVqOTQh4AvoJyST3pFEvexQsVGc8hoWY4O32r-qJVcB8n_JZF4NHXHhXAL-LBCKl-XY",
-            "https://play-lh.googleusercontent.com/buoMGLGsSk-CMb1WZFP3x_hlAVgS-aJeDYW7oOltv6MsnIZSvDX_5Qr0ITZnJUBFH85P",
-            "https://play-lh.googleusercontent.com/PllOBtHMOVloaDQeFB8Xz3fmFNwb5abKpDI1F3gW9bC1_T_lSsW4Z_T91yeYzeHRr0NH"
-          ],
-          "app_icon": "https://play-lh.googleusercontent.com/BArF-yk6LWAI6LIwzCnqZffZVD0xGlt86TjUDFuwT_ghl94knYEfFffzGQ2MlaXRgUaS",
-          "trailer": "https://play.google.com/video/lava/web/player/yt:movie:nKPNUrbk6_4",
-          "num_downloads_exact": 91765,
-          "app_content_rating": "Teen",
-          "chart_label": null,
-          "chart_rank": null,
-          "app_updated_at_timestamp": 1668171069,
-          "app_updated_at_datetime_utc": "2022-11-11T12:51:09.000Z",
-          "num_reviews": null,
-          "reviews_per_rating": null,
-          "app_first_released_at_datetime_utc": "2022-11-14T09:03:16.000Z",
-          "app_first_released_at_timestamp": 1668416596,
-          "current_version": "1.11.0",
-          "current_version_released_at_timestamp": 1668124800,
-          "current_version_released_at_datetime_utc": "2022-11-11T00:00:00.000Z",
-          "current_version_whatsnew": null,
-          "data_shared_by_app_and_why": null,
-          "data_collected_by_app_and_why": null,
-          "security_practices": null,
-          "contains_ads": false,
-          "privacy_policy_link": "https://www.pairium.com/privacy-policy/",
-          "app_permissions": [],
-          "app_developer_website": "https://www.pairium.com/",
-          "app_developer_email": "cs-pairium@gotinc.co.jp",
-          "min_android_version": "6.0",
-          "min_android_api_level": 23,
-          "max_android_version": null,
-          "max_android_api_level": 33
+          "max_android_api_level": 28,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.reddit.frontpage",
@@ -3374,7 +4466,28 @@
           "min_android_version": null,
           "min_android_api_level": null,
           "max_android_version": "10",
-          "max_android_api_level": 29
+          "max_android_api_level": 29,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "tv.twitch.android.app",
@@ -3435,7 +4548,28 @@
           "min_android_version": "5.0",
           "min_android_api_level": 21,
           "max_android_version": "10",
-          "max_android_api_level": 29
+          "max_android_api_level": 29,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.pinterest",
@@ -3490,7 +4624,28 @@
           "min_android_version": null,
           "min_android_api_level": null,
           "max_android_version": "9",
-          "max_android_api_level": 28
+          "max_android_api_level": 28,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.facebook.katana",
@@ -3543,7 +4698,28 @@
           "min_android_version": null,
           "min_android_api_level": null,
           "max_android_version": "11",
-          "max_android_api_level": 30
+          "max_android_api_level": 30,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "co.benx.weverse",
@@ -3599,7 +4775,27 @@
           "min_android_version": "6.0",
           "min_android_api_level": 23,
           "max_android_version": null,
-          "max_android_api_level": 32
+          "max_android_api_level": 32,"platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "co.yellw.yellowapp",
@@ -3656,7 +4852,28 @@
           "min_android_version": "7.0",
           "min_android_api_level": 24,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "net.wrightflyer.le.reality",
@@ -3712,7 +4929,28 @@
           "min_android_version": "8.0",
           "min_android_api_level": 26,
           "max_android_version": null,
-          "max_android_api_level": 32
+          "max_android_api_level": 32,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.projz.z.android",
@@ -3782,7 +5020,28 @@
           "min_android_version": "6.0",
           "min_android_api_level": 23,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.zhiliaoapp.musically",
@@ -3838,7 +5097,28 @@
           "min_android_version": null,
           "min_android_api_level": null,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.plato.android",
@@ -3892,7 +5172,28 @@
           "min_android_version": "5.0",
           "min_android_api_level": 21,
           "max_android_version": null,
-          "max_android_api_level": 32
+          "max_android_api_level": 32,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "video.like",
@@ -3946,7 +5247,28 @@
           "min_android_version": "4.4",
           "min_android_api_level": 19,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.vkontakte.android",
@@ -4002,7 +5324,28 @@
           "min_android_version": "6.0",
           "min_android_api_level": 23,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.myyearbook.m",
@@ -4059,7 +5402,28 @@
           "min_android_version": "5.0",
           "min_android_api_level": 21,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "ru.ok.android",
@@ -4120,7 +5484,28 @@
           "min_android_version": "6.0",
           "min_android_api_level": 23,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.bereal.ft",
@@ -4174,7 +5559,28 @@
           "min_android_version": "8.0",
           "min_android_api_level": 26,
           "max_android_version": null,
-          "max_android_api_level": 33
+          "max_android_api_level": 33,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.nextdoor",
@@ -4247,7 +5653,28 @@
           "min_android_version": "7.0",
           "min_android_api_level": 24,
           "max_android_version": null,
-          "max_android_api_level": 33
+          "max_android_api_level": 33,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.facebook.lite",
@@ -4300,7 +5727,28 @@
           "min_android_version": null,
           "min_android_api_level": null,
           "max_android_version": "5.0",
-          "max_android_api_level": 21
+          "max_android_api_level": 21,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.vimeo.android.videoapp",
@@ -4355,7 +5803,28 @@
           "min_android_version": "8.0",
           "min_android_api_level": 26,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "org.buffer.android",
@@ -4410,7 +5879,28 @@
           "min_android_version": "7.0",
           "min_android_api_level": 24,
           "max_android_version": null,
-          "max_android_api_level": 33
+          "max_android_api_level": 33,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.nhn.android.band",
@@ -4468,7 +5958,28 @@
           "min_android_version": null,
           "min_android_api_level": null,
           "max_android_version": "9",
-          "max_android_api_level": 28
+          "max_android_api_level": 28,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.clubhouse.app",
@@ -4541,7 +6052,28 @@
           "min_android_version": "8.0",
           "min_android_api_level": 26,
           "max_android_version": null,
-          "max_android_api_level": 33
+          "max_android_api_level": 33,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "video.tiki",
@@ -4597,7 +6129,28 @@
           "min_android_version": "4.4",
           "min_android_api_level": 19,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "com.deviantart.android.damobile",
@@ -4653,7 +6206,28 @@
           "min_android_version": "5.0",
           "min_android_api_level": 21,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         },
         {
           "app_id": "mobisocial.arcade",
@@ -4718,7 +6292,28 @@
           "min_android_version": "5.0",
           "min_android_api_level": 21,
           "max_android_version": "12",
-          "max_android_api_level": 31
+          "max_android_api_level": 31,
+          "platforms": ["Ios", "Android", "Web"],
+          "reviews":[
+            {
+                "id": 1,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 2,
+                "user": "",
+                "review": "",
+                "rate": true
+            },
+            {
+                "id": 3,
+                "user": "",
+                "review": "",
+                "rate": true
+            }
+          ]
         }
       ],
       "cursor": null
