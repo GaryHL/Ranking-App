@@ -7,7 +7,7 @@ const NavBar = () => {
     <React.Fragment>
         <ContainerNav>
           <ContainerLogo>
-            <img alt="logo"/>
+            <span>✔</span>
             <h2>CheckApp</h2>
           </ContainerLogo>
           <ContainerSettings>

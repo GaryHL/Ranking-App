@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+import { VariableColor } from "../../variables/Variables";
+
 export const ContainerNav = styled.nav`
    width: 80%;
    height: 3vh;
@@ -7,7 +9,7 @@ export const ContainerNav = styled.nav`
    display: flex;
    justify-content: space-between;
    align-items: center;
-   background-color:#D9D9D9;
+   background-color:${VariableColor.mainColor};
 `;
 
 export const ContainerLogo = styled.div`
@@ -15,6 +17,7 @@ export const ContainerLogo = styled.div`
    gap: 1rem;
    align-items: center;
    >h2{
+      font-weight: 100;
    }
 `;
 

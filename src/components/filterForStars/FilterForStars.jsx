@@ -1,6 +1,9 @@
 import React from "react";
 import { useState } from "react";
 import { ContainerFilter, TabFilter } from "./FilterForStars_styled";
+import Yeah from "../../assets/svg/YEAH.svg";
+import Meh from "../../assets/svg/MEH.svg";
+import Booh from "../../assets/svg/BOOH.svg";
 
 const FilterForStars = () => {
    const [tabActiveYeah, setTabActiveYeah] = useState(false);
@@ -28,13 +31,16 @@ const FilterForStars = () => {
    return (
       <ContainerFilter>
          <TabFilter isActive={tabActiveYeah} onClick={() => activeTab("yeah")}>
-            YEAH!
+            <img src={Yeah} alt="OptionYeah" />
+            <h2>YEAH!</h2>
          </TabFilter>
          <TabFilter isActive={tabActiveMeh} onClick={() => activeTab("meh")}>
-            MEH
+            <img src={Meh} alt="OptionYeah" />
+            <h2>MEH</h2>
          </TabFilter>
          <TabFilter isActive={tabActiveBooh} onClick={() => activeTab("booh")}>
-            BOOH!
+            <img src={Booh} alt="OptionYeah" />
+            <h2>BOOH!</h2>
          </TabFilter>
       </ContainerFilter>
    );
