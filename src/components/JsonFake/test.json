@@ -56,21 +56,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -132,20 +132,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Maria Martin de Zatarain",
+            "review": "Its samsung, but is good",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Adria Smilges Nieto",
+            "review": "Samsung smells shit.",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Alexia Mitjavila Sales",
+            "review": "I think this is a good app, i can't use in my xiaomi but is a good app",
             "rate": true
           }
         ]
@@ -201,20 +201,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "MariCarmen Royo Reberte",
+            "review": "My phone explod, after install this app",
+            "rate": false
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Andreu Reberte Royo",
+            "review": "Ok",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Marc Marin Sabater",
+            "review": "Its fun, i can take notes in te bathroom",
             "rate": true
           }
         ]
@@ -268,20 +268,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Camilo Rocca",
+            "review": "This App save my life",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Gary Lima",
+            "review": "We will see this and much more in the Fullstack",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Matt Sandoval",
+            "review": "I'm a unitard!",
             "rate": true
           }
         ]
@@ -328,20 +328,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Ricardo Boquerone",
+            "review": "Notes is fun to take notes!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Mr Bigotes",
+            "review": "Miaaaaaaau",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Cipriano Martín",
+            "review": "Wtf is this?",
             "rate": true
           }
         ]
@@ -386,20 +386,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jannah Cash",
+            "review": "5 Stars",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Sidra Lee",
+            "review": "My name is sidra but i prefer the beer",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Giacomo Milne",
+            "review": "I think this is a good App",
             "rate": true
           }
         ]
@@ -445,20 +445,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Leia Adam",
+            "review": "I'm your sister",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Helena Hauff",
+            "review": "Bum Bum Bum Bum Bum Bum Bum like techno",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Carlos Sandoval",
+            "review": "I think this is a good App",
             "rate": true
           }
         ]
@@ -500,20 +500,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Lorna Spooner ",
+            "review": "I'm Sponner, but in my interior i'm feel knifeer",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Anton Irwin",
+            "review": "I'm feel pretty",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Francesc Mitjavila Babot",
+            "review": "This App make me Happy",
             "rate": true
           }
         ]
@@ -562,20 +562,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Warren Don",
+            "review": "Haloooo!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Worner Moura",
+            "review": "This app is fucking shit",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Cat Steavens",
+            "review": "Shalalalala lalala lala la la",
             "rate": true
           }
         ]
@@ -622,20 +622,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Mario Canario",
+            "review": "It's me Marioooooooo",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Santiago Apostol",
+            "review": "Soc un bon noi",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fred El Gato",
+            "review": "MEEEU",
             "rate": true
           }
         ]
@@ -681,20 +681,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Diego Armando Maradona",
+            "review": "Esta App me saco de la dr***",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Raul Santiago de Todos los Santos",
+            "review": "No me gusta nada esta App, creo que esta muy mal echa",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Charlie Sheen",
+            "review": "This app its fun!",
             "rate": true
           }
         ]
@@ -739,20 +739,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Peter Jacksoon",
+            "review": "I like this",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Django Freeman",
+            "review": "I like the way you die boy",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Jules Winnfield",
+            "review": "This app is like the Hamburgers! The cornerstone of any nutritious breakfast",
             "rate": true
           }
         ]
@@ -814,21 +814,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Robie Williams",
+            "review": "I like this.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Saul Goodman",
+            "review": "Better call Saul, this is a bad app.",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Dolcie Atkinson",
+            "review": "Thanks for wasting time downloading this app ",
+            "rate": false
           }
         ]
       },
@@ -871,21 +871,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Franco Battiato",
+            "review": "Sono stanco di tante app per appunti, voglio vederti danzare!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Miller Robson",
+            "review": "This is a good app, to take some notes in my job! 5 stars!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Avleen Brown",
+            "review": "Don't work in my phone...1 Star",
+            "rate": false
           }
         ]
       },
@@ -926,20 +926,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Elena Balada Andres",
+            "review": "Ok",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Roberto Millan",
+            "review": "No funciona bien en mi dispositivo, se cierra todo el rato",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Gorka Urbizu",
+            "review": "Aplikazio hau gustatzen zait, nire ideiak edonon idatzi ditzakedalako oso modu errazean",
             "rate": true
           }
         ]
@@ -986,20 +986,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Amritpal Dunlap",
+            "review": "All okay! Good App",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Haidar Aguirre",
+            "review": "This not Work",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fibar Bryan",
+            "review": "Recomended 100%",
             "rate": true
           }
         ]
@@ -1056,21 +1056,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Robie Williams",
+            "review": "I like this.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Saul Goodman",
+            "review": "Better call Saul, this is a bad app.",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Dolcie Atkinson",
+            "review": "Thanks for wasting time downloading this app ",
+            "rate": false
           }
         ]
       },
@@ -1132,20 +1132,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Peter Jacksoon",
+            "review": "I like this",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Django Freeman",
+            "review": "I like the way you die boy",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Jules Winnfield",
+            "review": "This app is like the Hamburgers! The cornerstone of any nutritious breakfast",
             "rate": true
           }
         ]
@@ -1192,21 +1192,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -1254,21 +1254,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Armando Guerra Segura",
+            "review": "Bueno, no esta mal",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Sid Jenkins",
+            "review": "Okay, but Notepad is better...",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Tone Stoner",
+            "review": "Meeeh...irrelevant",
+            "rate": false
           }
         ]
       },
@@ -1314,20 +1314,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Peter Jacksoon",
+            "review": "I like this",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Django Freeman",
+            "review": "I like the way you die boy",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Jules Winnfield",
+            "review": "This app is like the Hamburgers! The cornerstone of any nutritious breakfast",
             "rate": true
           }
         ]
@@ -1374,20 +1374,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Carmen Sanchez Guerrero",
+            "review": "Ok",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Melisa Sandoval Franceschi",
+            "review": "Me gusta.",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Xavi Castell Pujol",
+            "review": "Tot be.",
             "rate": true
           }
         ]
@@ -1432,20 +1432,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Camilo Rocca",
+            "review": "This App save my life",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Gary Lima",
+            "review": "We will see this and much more in the Fullstack",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Matt Sandoval",
+            "review": "I'm a unitard!",
             "rate": true
           }
         ]
@@ -1504,20 +1504,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -1561,20 +1561,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Amritpal Dunlap",
+            "review": "All okay! Good App",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Haidar Aguirre",
+            "review": "This not Work",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fibar Bryan",
+            "review": "Recomended 100%",
             "rate": true
           }
         ]
@@ -1631,21 +1631,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -1705,20 +1705,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "MariCarmen Royo Reberte",
+            "review": "My phone explod, after install this app",
+            "rate": false
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Andreu Reberte Royo",
+            "review": "Ok",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Marc Marin Sabater",
+            "review": "Its fun, i can take notes in te bathroom",
             "rate": true
           }
         ]
@@ -1764,20 +1764,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Camilo Rocca",
+            "review": "This App save my life",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Gary Lima",
+            "review": "We will see this and much more in the Fullstack",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Matt Sandoval",
+            "review": "I'm a unitard!",
             "rate": true
           }
         ]
@@ -1823,20 +1823,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -1880,21 +1880,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -1939,21 +1939,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -2007,20 +2007,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -2071,21 +2071,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -2139,20 +2139,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "MariCarmen Royo Reberte",
+            "review": "My phone explod, after install this app",
+            "rate": false
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Andreu Reberte Royo",
+            "review": "Ok",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Marc Marin Sabater",
+            "review": "Its fun, i can take notes in te bathroom",
             "rate": true
           }
         ]
@@ -2214,21 +2214,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Armando Guerra Segura",
+            "review": "Bueno, no esta mal",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Sid Jenkins",
+            "review": "Okay, but Notepad is better...",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Tone Stoner",
+            "review": "Meeeh...irrelevant",
+            "rate": false
           }
         ]
       },
@@ -2277,20 +2277,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -2351,21 +2351,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -2419,21 +2419,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -2443,7 +2443,7 @@
         "app_category": "Video Players & Editors",
         "app_developer": "VivaCut professional video editor",
         "num_downloads": "100,000,000+",
-        "app_description": "VivaCut is an amazing video editor & video maker. Whether you want to make a great movie or just want to share memories and fun moments with your friends, VivaCut is the best choice for you.\n\nCreate short videos with one click using cool effect and transition templates! VivaCut is also a professional video editing app with all the editing features. Multi-layer timeline, chroma key and green screen features help you create cinematic videos with music for YouTube, Instagram and TikTok.  Want to get more likes on your social media? Download this video editor & video maker now!\n\nProfessional Video Editing App \n[Green Screen/Chroma key] Combine/mix videos like a Hollywood-level Movie. Best chroma key video editor app & video background changer editor.\n[Keyframe Animation]  Apply to Mask, Video Collage, Text, Stickers, Emoji, etc. Pro aesthetic video editor app.\n[Mask]  Linear, mirror, radial, rectangle and oval, all for the scene. Full screen video editor for youtube.\n[Music Marker] Mark the track and add effects according to the music rhythm. Pro video editor app with music and effects.\n[Audio Extraction] Aesthetic video editor with transition effects: extract music/audio from any video. Pro video editing app with sound effect.\n[Templates]Create your own music videos by automatically adding unique filters and cool effects to video templates!\n\nBest Video Editing App with all features\n[Multi-layer timeline] An intuitive and sleek editing interface with zoom for frame by frame precision with overlay video editor app\n[Text] Edit, duplicate and modify styles (variety of fonts & emoji, color, opacity, shadow, stroke）\n[Video Transition] Create amazing with cinematic overlay video editor with transition effects in VivaCut, a movie level video background changer editor.\n[Video Adjustment] Control Brightness, contrast, saturation, hue, color temperature, vignetting and enhance video quality\n[Filters] Edit videos/combine video clips with adjustable filters and effects. \n[Glitch Effects] Coolest video editing app with glitch effects and transitions! \n[Trim videos] Professional tools developed for precise Video Editing App\n[Split videos] Split videos and optimize for sharing\n[Combine video clips] Merge clips into a stunning video with transitions effects, combine video clips into one video. VivaCut - best video maker.\n[Speed Control] Fast & slow motion video like a pro, only with VivaCut Video - Pro Video Editing App!\n\nVideo Collage and Advanced Video Editing App\n[Picture in Picture] Combine clips together to create double exposures and eye-catching YouTube videos with transitions for free.\n[Collage] Add pictures to your clips and edit videos then go viral with VivaCut！\n[Overlay options] Customize layers with tools such as opacity and blending.\n[Blend videos] Mix videos try powerful blending modes such as Color Burn, Multiply, Screen, Soft Light, Hard Light ect. VivaCut - best video background changer editor.\n[Slideshow] Pro Aesthetic Video Editor App helps you telling story with pictures and music.\n\nSave and Share\n[Custom video resolution] Export videos in 720p, 1080p and 4k\n[Rename] Rename video and mark memory with PRO aesthetic video editor.\nSave videos directly with transitions effects to your device’s gallery, non-destructive video maker. One-click sharing to Youtube, Instagram, TikTok, snapchat and Etc.\n\nVivaCut for Android is a pro video editor and best video editing app with all features you need! It‘s a video maker with music for cutting and splitting videos. Take a leap for your video and experience the next PRO video editor generation. \n\n# About subscription\n\n- Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n- Your account will be charged for renewal within 24-hours prior to the end of the current period .\n\nAcknowledgements:\nMusic by audionautix.com and https://icons8.com/music/",
+        "app_description": "VivaCut is an amazing video editor & video maker. Whether you want to make a great movie or just want to share memories and fun moments with your friends, VivaCut is the best choice for you.\n\nCreate short videos with one click using cool effect and transition templates! VivaCut is also a professional video editing app with all the editing features. Multi-layer timeline, chroma key and green screen features help you create cinematic videos with music for YouTube, Instagram and TikTok.  Want to get more likes on your social media? Download this video editor & video maker now!\n\nProfessional Video Editing App \n[Green Screen/Chroma key] Combine/mix videos like a Hollywood-level Movie. Best chroma key video editor app & video background changer editor.\n[Keyframe Animation]  Apply to Mask, Video Collage, Text, Stickers, Emoji, etc. Pro aesthetic video editor app.\n[Mask]  Linear, mirror, radial, rectangle and oval, all for the scene. Full screen video editor for youtube.\n[Music Marker] Mark the track and add effects according to the music rhythm. Pro video editor app with music and effects.\n[Audio Extraction] Aesthetic video editor with transition effects: extract music/audio from any video. Pro video editing app with sound effect.\n[Templates]Create your own music videos by automatically adding unique filters and cool effects to video templates!\n\nBest Video Editing App with all features\n[Multi-layer timeline] An intuitive and sleek editing interface with zoom for frame by frame precision with overlay video editor app\n[Text] Edit, duplicate and modify styles (variety of fonts & emoji, color, opacity, shadow, stroke）\n[Video Transition] Create amazing with cinematic overlay video editor with transition effects in VivaCut, a movie level video background changer editor.\n[Video Adjustment] Control Brightness, contrast, saturation, hue, color temperature, vignetting and enhance video quality\n[Filters] Edit videos/combine video clips with adjustable filters and effects. \n[Glitch Effects] Coolest video editing app with glitch effects and transitions! \n[Trim videos] Professional tools developed for precise Video Editing App\n[Split videos] Split videos and optimize for sharing\n[Combine video clips] Merge clips into a stunning video with transitions effects, combine video clips into one video. VivaCut - best video maker.\n[Speed Control] Fast & slow motion video like a pro, only with VivaCut Video - Pro Video Editing App!\n\nVideo Collage and Advanced Video Editing App\n[Picture in Picture] Combine clips together to create double exposures and eye-catching YouTube videos with transitions for free.\n[Collage] Add pictures to your clips and edit videos then go viral with VivaCut！\n[Overlay options] Customize layers with tools such as opacity and blending.\n[Blend videos] Mix videos try powerful blending modes such as Color Burn, Multiply, Screen, Soft Light, Hard Light ect. VivaCut - best video background changer editor.\n[Slideshow] Pro Aesthetic Video Editor App helps you telling story with pictures and music.\n\nSave and Share\n[Custom video resolution] Export videos in 720p, 1080p and 4k\n[Rename] Rename video and mark memory with PRO aesthetic video editor.\nSave videos directly with transitions effects to your device’s gallery, non-destructive video maker. One-click sharing to Youtube, Instagram, TikTok, snapchat and Etc.\n\nVivaCut for Android is a pro video editor and best video editing app with all features you need! It‘s a video maker with music for cutting and splitting videos. Take a leap for your video and experience the next PRO video editor generation. \n\n# About subscription\n\n- Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.\n- Your account will be charged for renewal within 24-hours prior to the end of the current period.\n\nAcknowledgements:\nMusic by audionautix.com and https://icons8.com/music/",
         "app_page_link": "https://play.google.com/store/apps/details?id=com.videoeditorpro.android",
         "price": 0,
         "rating": 4,
@@ -2486,20 +2486,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -2550,20 +2550,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "MariCarmen Royo Reberte",
+            "review": "My phone explod, after install this app",
+            "rate": false
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Andreu Reberte Royo",
+            "review": "Ok",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Marc Marin Sabater",
+            "review": "Its fun, i can take notes in te bathroom",
             "rate": true
           }
         ]
@@ -2612,20 +2612,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Camilo Rocca",
+            "review": "This App save my life",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Gary Lima",
+            "review": "We will see this and much more in the Fullstack",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Matt Sandoval",
+            "review": "I'm a unitard!",
             "rate": true
           }
         ]
@@ -2680,20 +2680,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Camilo Rocca",
+            "review": "This App save my life",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Gary Lima",
+            "review": "We will see this and much more in the Fullstack",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Matt Sandoval",
+            "review": "I'm a unitard!",
             "rate": true
           }
         ]
@@ -2764,20 +2764,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Mario Canario",
+            "review": "It's me Marioooooooo",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Santiago Apostol",
+            "review": "Soc un bon noi",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fred El Gato",
+            "review": "MEEEU",
             "rate": true
           }
         ]
@@ -2842,20 +2842,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -2926,20 +2926,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Amritpal Dunlap",
+            "review": "All okay! Good App",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Haidar Aguirre",
+            "review": "This not Work",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fibar Bryan",
+            "review": "Recomended 100%",
             "rate": true
           }
         ]
@@ -2990,21 +2990,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -3058,20 +3058,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Lorna Spooner ",
+            "review": "I'm Sponner, but in my interior i'm feel knifeer",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Anton Irwin",
+            "review": "I'm feel pretty",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Francesc Mitjavila Babot",
+            "review": "This App make me Happy",
             "rate": true
           }
         ]
@@ -3125,20 +3125,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -3191,21 +3191,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -3257,20 +3257,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "MariCarmen Royo Reberte",
+            "review": "My phone explod, after install this app",
+            "rate": false
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Andreu Reberte Royo",
+            "review": "Ok",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Marc Marin Sabater",
+            "review": "Its fun, i can take notes in te bathroom",
             "rate": true
           }
         ]
@@ -3324,20 +3324,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Mario Canario",
+            "review": "It's me Marioooooooo",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Santiago Apostol",
+            "review": "Soc un bon noi",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fred El Gato",
+            "review": "MEEEU",
             "rate": true
           }
         ]
@@ -3391,20 +3391,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -3452,20 +3452,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Amritpal Dunlap",
+            "review": "All okay! Good App",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Haidar Aguirre",
+            "review": "This not Work",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fibar Bryan",
+            "review": "Recomended 100%",
             "rate": true
           }
         ]
@@ -3517,21 +3517,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Armando Guerra Segura",
+            "review": "Bueno, no esta mal",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Sid Jenkins",
+            "review": "Okay, but Notepad is better...",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Tone Stoner",
+            "review": "Meeeh...irrelevant",
+            "rate": false
           }
         ]
       },
@@ -3582,20 +3582,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Camilo Rocca",
+            "review": "This App save my life",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Gary Lima",
+            "review": "We will see this and much more in the Fullstack",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Matt Sandoval",
+            "review": "I'm a unitard!",
             "rate": true
           }
         ]
@@ -3655,21 +3655,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -3725,20 +3725,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Mario Canario",
+            "review": "It's me Marioooooooo",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Santiago Apostol",
+            "review": "Soc un bon noi",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fred El Gato",
+            "review": "MEEEU",
             "rate": true
           }
         ]
@@ -3787,20 +3787,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -3847,20 +3847,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Mario Canario",
+            "review": "It's me Marioooooooo",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Santiago Apostol",
+            "review": "Soc un bon noi",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fred El Gato",
+            "review": "MEEEU",
             "rate": true
           }
         ]
@@ -3911,20 +3911,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Amritpal Dunlap",
+            "review": "All okay! Good App",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Haidar Aguirre",
+            "review": "This not Work",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fibar Bryan",
+            "review": "Recomended 100%",
             "rate": true
           }
         ]
@@ -3976,20 +3976,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "MariCarmen Royo Reberte",
+            "review": "My phone explod, after install this app",
+            "rate": false
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Andreu Reberte Royo",
+            "review": "Ok",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Marc Marin Sabater",
+            "review": "Its fun, i can take notes in te bathroom",
             "rate": true
           }
         ]
@@ -4040,20 +4040,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Lorna Spooner ",
+            "review": "I'm Sponner, but in my interior i'm feel knifeer",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Anton Irwin",
+            "review": "I'm feel pretty",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Francesc Mitjavila Babot",
+            "review": "This App make me Happy",
             "rate": true
           }
         ]
@@ -4118,20 +4118,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Amritpal Dunlap",
+            "review": "All okay! Good App",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Haidar Aguirre",
+            "review": "This not Work",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fibar Bryan",
+            "review": "Recomended 100%",
             "rate": true
           }
         ]
@@ -4181,21 +4181,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Armando Guerra Segura",
+            "review": "Bueno, no esta mal",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Sid Jenkins",
+            "review": "Okay, but Notepad is better...",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Tone Stoner",
+            "review": "Meeeh...irrelevant",
+            "rate": false
           }
         ]
       },
@@ -4243,20 +4243,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -4305,20 +4305,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Camilo Rocca",
+            "review": "This App save my life",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Gary Lima",
+            "review": "We will see this and much more in the Fullstack",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Matt Sandoval",
+            "review": "I'm a unitard!",
             "rate": true
           }
         ]
@@ -4369,20 +4369,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Maria Martin de Zatarain",
+            "review": "Its samsung, but is good",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Adria Smilges Nieto",
+            "review": "Samsung smells shit.",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Alexia Mitjavila Sales",
+            "review": "I think this is a good app, i can't use in my xiaomi but is a good app",
             "rate": true
           }
         ]
@@ -4434,20 +4434,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Mario Canario",
+            "review": "It's me Marioooooooo",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Santiago Apostol",
+            "review": "Soc un bon noi",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Fred El Gato",
+            "review": "MEEEU",
             "rate": true
           }
         ]
@@ -4503,20 +4503,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Camilo Rocca",
+            "review": "This App save my life",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Gary Lima",
+            "review": "We will see this and much more in the Fullstack",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Matt Sandoval",
+            "review": "I'm a unitard!",
             "rate": true
           }
         ]
@@ -4565,20 +4565,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Lorna Spooner ",
+            "review": "I'm Sponner, but in my interior i'm feel knifeer",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Anton Irwin",
+            "review": "I'm feel pretty",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Francesc Mitjavila Babot",
+            "review": "This App make me Happy",
             "rate": true
           }
         ]
@@ -4648,21 +4648,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Armando Guerra Segura",
+            "review": "Bueno, no esta mal",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Sid Jenkins",
+            "review": "Okay, but Runtastic is better...",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Tone Stoner",
+            "review": "Meeeh...irrelevant",
+            "rate": false
           }
         ]
       },
@@ -4709,21 +4709,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -4772,20 +4772,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -4835,20 +4835,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Lorna Spooner ",
+            "review": "I'm Sponner, but in my interior i'm feel knifeer",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Anton Irwin",
+            "review": "I'm feel pretty",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Francesc Mitjavila Babot",
+            "review": "This App make me Happy",
             "rate": true
           }
         ]
@@ -4898,20 +4898,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Jerry",
+            "review": "Yeaaa, this is aweome!",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Eduard",
+            "review": "Me encanta esto!",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Andres",
+            "review": "Usare esta app en mi dia a dia.",
             "rate": true
           }
         ]
@@ -4979,20 +4979,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Lorna Spooner ",
+            "review": "I'm Sponner, but in my interior i'm feel knifeer",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Anton Irwin",
+            "review": "I'm feel pretty",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Francesc Mitjavila Babot",
+            "review": "This App make me Happy",
             "rate": true
           }
         ]
@@ -5043,20 +5043,20 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Maria Martin de Zatarain",
+            "review": "Its samsung, but is good",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Adria Smilges Nieto",
+            "review": "Samsung smells shit.",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
+            "user": "Alexia Mitjavila Sales",
+            "review": "I think this is a good app, i can't use in my xiaomi but is a good app",
             "rate": true
           }
         ]
@@ -5107,21 +5107,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Abigail Marin",
+            "review": "This App, change my life! Its awesome.",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
+            "user": "Tomos Hilton",
+            "review": "This App is better than this name: Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Zipriano de la Santisima Trinidad Ruiz y Picasso",
             "rate": true
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Liyana Mellor",
+            "review": "This is bullshit",
+            "rate": false
           }
         ]
       },
@@ -5182,21 +5182,21 @@
         "reviews": [
           {
             "id": 1,
-            "user": "",
-            "review": "",
+            "user": "Armando Guerra Segura",
+            "review": "Bueno, no esta mal",
             "rate": true
           },
           {
             "id": 2,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Sid Jenkins",
+            "review": "Okay, but YouTube is better...",
+            "rate": false
           },
           {
             "id": 3,
-            "user": "",
-            "review": "",
-            "rate": true
+            "user": "Tone Stoner",
+            "review": "Meeeh...irrelevant",
+            "rate": false
           }
         ]
       }
