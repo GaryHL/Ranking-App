@@ -13,11 +13,13 @@ to{
 export const ContainerFilter = styled.div`
    width: 100%;
    height: 7vh;
-   display: grid;
-   grid-template-columns: auto auto auto;
+   display: flex;
+   position: relative;
+   justify-content: space-around;
 `;
 
 export const TabFilter = styled.div`
+background-color:gray;
    width: auto;
    transition: 0.3s;
    display: flex;

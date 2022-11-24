@@ -2,14 +2,18 @@ import React from "react";
 import { ContainerFilter, ContainerFilterInBody } from "./SearchBar_styled";
 
 const searchBar = (props) => {
-
-
    return (
       <React.Fragment>
          {props.inBody == true ? (
             <ContainerFilterInBody>
-                <input placeholder="Search App or cathegory" id="searchInput"/>
-               <button >Buscar</button>
+               <form action="">
+                  <input
+                     type="text"
+                     placeholder="Search App or cathegory"
+                     id="searchInput"
+                  />
+                  <button>Buscar</button>
+               </form>
             </ContainerFilterInBody>
          ) : (
             <ContainerFilter>🔍</ContainerFilter>

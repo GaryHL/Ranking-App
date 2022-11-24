@@ -11,7 +11,7 @@ export const Header = styled.div`
    > h1 {
       font-weight: 400;
       font-family: "Bangers", cursive;
-      font-size: 3rem;
+      font-size: 3.2rem;
    }
 `;
 
