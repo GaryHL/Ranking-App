@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { VariableColor } from "../../variables/Variables";
+import { brandColours } from "../../variables/Variables";
 
 export const Header = styled.div`
    width: 80%;
@@ -24,5 +24,5 @@ export const ContainerSearchBar = styled.div`
    width: calc(80% - 4px);
    align-items: center;
    height: 30vh;
-   background-color: ${VariableColor.mainColor};
+   background-color: ${brandColours.mainColor};
 `;

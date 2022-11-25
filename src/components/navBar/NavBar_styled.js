@@ -1,15 +1,16 @@
 import styled from "styled-components";
 
-import { VariableColor } from "../../variables/Variables";
+import { brandColours , huesMain } from "../../variables/Variables";
 
 export const ContainerNav = styled.nav`
-   width: 80%;
+   width: calc(80% - 4px);
    height: 3vh;
    padding: 2vh 10%;
    display: flex;
    justify-content: space-between;
    align-items: center;
-   background-color:${VariableColor.mainColor};
+   background-color:${huesMain.hues02};
+   border:2px solid black;
 `;
 
 export const ContainerLogo = styled.div`
@@ -18,6 +19,7 @@ export const ContainerLogo = styled.div`
    align-items: center;
    >h2{
       font-weight: 100;
+      color:${brandColours.blackColor};
    }
 `;
 

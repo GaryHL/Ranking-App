@@ -8,7 +8,7 @@ const NavBar = () => {
         <ContainerNav>
           <ContainerLogo>
             <span>✔</span>
-            <h2>CheckApp</h2>
+            <h2>checkapp</h2>
           </ContainerLogo>
           <ContainerSettings>
             <span>🔍</span>

@@ -6,7 +6,7 @@ const searchBar = (props) => {
       <React.Fragment>
          {props.inBody == true ? (
             <ContainerFilterInBody>
-               <form action="">
+               <form action="/filter">
                   <input
                      type="text"
                      placeholder="Search App or cathegory"

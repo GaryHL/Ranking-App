@@ -1,5 +1,5 @@
 import styled, { keyframes } from "styled-components";
-import { VariableColor } from "../../variables/Variables";
+import { brandColours } from "../../variables/Variables";
 
 const tabActive = keyframes`
 from{
@@ -60,8 +60,9 @@ background-color:gray;
       position: absolute;
       z-index: 2;
       transition: 0.3s;
-      color: ${VariableColor.mainColor};
+      color: ${brandColours.mainColor};
       font-family: "bangers";
       letter-spacing: 0.2rem;
+      ${props => props.color == "white" ? "color white;" : null}
    }
 `;

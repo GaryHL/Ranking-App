@@ -6,7 +6,7 @@ const ContainerCategories = (props) => {
   return (
     <ContainerCategoryStyled>
         <button>Education</button>
-        <button>Education / social media</button>
+        <button>Social media</button>
         <button>Education</button>
         <button>Education</button>
         <button>Education</button>
