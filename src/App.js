@@ -1,12 +1,16 @@
-import './App.css';
-import Router from '../src/router/Router'
+import React from "react";
+import Router from "../src/router/Router";
+import GlobalSyle from "./assets/globalStyles/globalStyles";
 
 function App() {
-  return (
-    <div className="App">
-      <Router/>
-    </div>
-  );
+   return (
+      <React.Fragment>
+        <GlobalSyle/>
+         <div className="App">
+            <Router />
+         </div>
+      </React.Fragment>
+   );
 }
 
 export default App;
